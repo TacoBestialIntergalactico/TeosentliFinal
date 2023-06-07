@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735612949484",
+    "firebase_url": "https://teosentli-6df78-default-rtdb.firebaseio.com",
+    "project_id": "teosentli-6df78",
+    "storage_bucket": "teosentli-6df78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735612949484:android:37736a587d0a28d9cea6c9",
+        "android_client_info": {
+          "package_name": "MX.TeosentliTeam.teosentli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735612949484-5gqht6i70qgpvs5c194cf7bohnh027if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr6M6a7POAtghGhkWExWzLUnxtqdHeEq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735612949484-5gqht6i70qgpvs5c194cf7bohnh027if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

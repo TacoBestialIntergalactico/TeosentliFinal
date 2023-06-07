@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="MX.TeosentliTeam.teosentli.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_nav_home_to_nav_teosentli2"
+            app:destination="@id/nav_teosentli" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_plants2"
+            app:destination="@id/nav_plants" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_nature2"
+            app:destination="@id/nav_nature" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_news2"
+            app:destination="@id/nav_news" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_messagges"
+            app:destination="@id/nav_messagges" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_configuration"
+            app:destination="@id/nav_configuration" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_about"
+            app:destination="@id/nav_about" />
+        <action
+            android:id="@+id/action_nav_home_to_plantFragmentM"
+            app:destination="@id/plantFragmentM" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_news"
+        android:name="MX.TeosentliTeam.teosentli.ui.news.NewsFragment"
+        android:label="@string/menu_teosentli"
+        tools:layout="@layout/fragment_news" >
+        <action
+            android:id="@+id/action_nav_news_to_newsFragmentM"
+            app:destination="@id/newsFragmentM" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_nature"
+        android:name="MX.TeosentliTeam.teosentli.ui.nature.NatureFragment"
+        android:label="@string/menu_teosentli"
+        tools:layout="@layout/fragment_nature" />
+
+    <fragment
+        android:id="@+id/nav_teosentli"
+        android:name="MX.TeosentliTeam.teosentli.ui.teosentli.TeosentliFragment"
+        android:label="@string/menu_teosentli"
+        tools:layout="@layout/fragment_teosentli" >
+        <action
+            android:id="@+id/action_nav_teosentli_to_plantFragmentM"
+            app:destination="@id/plantFragmentM" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_plants"
+        android:name="MX.TeosentliTeam.teosentli.ui.plants.PlantsFragment"
+        android:label="@string/menu_plants"
+        tools:layout="@layout/fragment_plants" >
+        <action
+            android:id="@+id/action_nav_plants_to_plantFragmentM"
+            app:destination="@id/plantFragmentM" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_messagges"
+        android:name="MX.TeosentliTeam.teosentli.ui.messages.MessagesFragment"
+        android:label="fragment_messages"
+        tools:layout="@layout/fragment_messages" >
+        <action
+            android:id="@+id/action_nav_messagges_to_messageFragmentM"
+            app:destination="@id/messageFragmentM" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_configuration"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.ConfigFragment"
+        android:label="fragment_config"
+        tools:layout="@layout/fragment_config" >
+        <action
+            android:id="@+id/action_nav_configuration_to_sistemConfigFragment2"
+            app:destination="@id/sistemConfigFragment2" />
+        <action
+            android:id="@+id/action_nav_configuration_to_climaFragment"
+            app:destination="@id/climaFragment" />
+        <action
+            android:id="@+id/action_nav_configuration_to_teoFragment"
+            app:destination="@id/teoFragment" />
+        <action
+            android:id="@+id/action_nav_configuration_to_socialConfigFragment"
+            app:destination="@id/socialConfigFragment" />
+        <action
+            android:id="@+id/action_nav_configuration_to_privacidadFragment"
+            app:destination="@id/privacidadFragment" />
+        <action
+            android:id="@+id/action_nav_configuration_to_ayudaFragment"
+            app:destination="@id/ayudaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="MX.TeosentliTeam.teosentli.ui.about.AboutFragment"
+        android:label="fragment_about"
+        tools:layout="@layout/fragment_about" >
+        <action
+            android:id="@+id/action_nav_about_to_politicasFragment"
+            app:destination="@id/politicasFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/sistemConfigFragment2"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.SistemConfigFragment"
+        android:label="SistemConfigFragment"
+        tools:layout="@layout/fragment_sistem_config"/>
+    <fragment
+        android:id="@+id/climaFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.ClimaFragment"
+        android:label="ClimaFragment"
+        tools:layout="@layout/fragment_clima"/>
+    <fragment
+        android:id="@+id/teoFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.TeoFragment"
+        android:label="TeoFragment"
+        tools:layout="@layout/fragment_teo"/>
+    <fragment
+        android:id="@+id/socialConfigFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.SocialConfigFragment"
+        android:label="SocialConfigFragment"
+        tools:layout="@layout/fragment_social_config"/>
+    <fragment
+        android:id="@+id/privacidadFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.PrivacidadFragment"
+        android:label="PrivacidadFragment"
+        tools:layout="@layout/fragment_privacidad"/>
+    <fragment
+        android:id="@+id/ayudaFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.config.AyudaFragment"
+        android:label="AyudaFragment"
+        tools:layout="@layout/fragment_ayuda"/>
+    <fragment
+        android:id="@+id/politicasFragment"
+        android:name="MX.TeosentliTeam.teosentli.ui.about.PoliticasFragment"
+        android:label="PoliticasFragment"
+        tools:layout="@layout/fragment_politicas"/>
+
+    <fragment
+        android:id="@+id/messageFragmentM"
+        android:name="MX.TeosentliTeam.teosentli.ui.messages.MessageFragmentM"
+        android:label="MessageFragmentM" />
+    <fragment
+        android:id="@+id/newsFragmentM"
+        android:name="MX.TeosentliTeam.teosentli.ui.news.NewsFragmentM"
+        android:label="NewsFragmentM" />
+    <fragment
+        android:id="@+id/plantFragmentM"
+        android:name="MX.TeosentliTeam.teosentli.ui.plants.PlantFragmentM"
+        android:label="PlantFragmentM" />
+
+</navigation>

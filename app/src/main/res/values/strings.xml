@@ -1,0 +1,224 @@
+<resources>
+    <string name="app_name">Teosentli</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_store"></string>
+
+    <string name="menu_teosentli">Tesosentli</string>
+    <string name="menu_plants">Plantas</string>
+    <string name="menu_news">Noticias</string>
+    <string name="menu_messagges">Mensajes</string>
+    <string name="menu_nature">Nature</string>
+    <string name="menu_configuration">Configuracion</string>
+    <string name="menu_about">Acerca</string>
+    <string name="menu_home">Hogar</string>
+
+    <string name="Title_GRoof">Techos Verdes</string>
+    <string name="Texto_GRoof">Un techo verde, también conocido como "green roof" en inglés, es un sistema de cubierta de edificios que utiliza vegetación y plantas para cubrir total o parcialmente la superficie del techo. Estos techos son diseñados específicamente para albergar una capa de sustrato (tierra) y una variedad de plantas que pueden crecer en ese entorno.
+
+Hay dos tipos principales de techos verdes: los techos verdes extensivos y los techos verdes intensivos. Los techos verdes extensivos son más ligeros y delgados, y suelen tener una capa de sustrato más delgada y plantas de bajo mantenimiento, como musgos y sedum. Son ideales para techos planos o con poca inclinación.</string>
+
+    <string name="Title_Drones">Drones Verdes</string>
+    <string name="Text_Drones">Son drones equipados con sensores y cámaras especiales para recopilar datos e información sobre el medio ambiente, realizar tareas de monitoreo y conservación de la naturaleza, y apoyar prácticas sostenibles en diferentes áreas. Algunas de las aplicaciones comunes de estos drones incluyen:
+
+Monitoreo de bosques y áreas naturales: Los drones equipados con cámaras y sensores pueden proporcionar imágenes aéreas detalladas de bosques, permitiendo la detección temprana de incendios forestales, la evaluación de la salud de los árboles y la detección de cambios en la cobertura vegetal.
+
+Agricultura sostenible: Los drones pueden ayudar en la agricultura de precisión al recopilar datos sobre la calidad del suelo, el estado de las cosechas y las necesidades de riego, lo que permite optimizar el uso de recursos y reducir el uso de pesticidas y fertilizantes.</string>
+
+    <string name="Title_Vertical">Granjas Vertical</string>
+    <string name="Text_Vertical">Las granjas verticales son instalaciones agrícolas que utilizan sistemas de cultivo en vertical para producir alimentos o cultivos en un espacio verticalmente optimizado. A diferencia de las granjas tradicionales, que se extienden horizontalmente en terrenos extensos, las granjas verticales aprovechan el espacio en altura para cultivar plantas en estantes o estructuras apiladas.
+
+En una granja vertical típica, las plantas se cultivan en estantes o bandejas apiladas unas sobre otras. Estas bandejas suelen estar equipadas con sistemas de riego y luces LED o luces artificiales para proporcionar la cantidad adecuada de agua y luz necesaria para el crecimiento de las plantas. Además, se utilizan técnicas de cultivo hidropónico o aeropónico, en las cuales las raíces de las plantas se sumergen en una solución nutritiva líquida o se rocían con ella, respectivamente, en lugar de utilizar suelo tradicional.</string>
+
+    <string name="Title_Sustrato">Sustrato</string>
+    <string name="Text_Sustrato">Es un material utilizado en sistemas de cultivo hidropónico para proporcionar soporte físico y retener nutrientes para el crecimiento de las plantas, en ausencia de suelo. A diferencia de la agricultura tradicional en la que las plantas se cultivan en tierra, en la hidroponía las raíces se sumergen en una solución nutritiva líquida y el sustrato se utiliza para mantener las plantas en su lugar y proporcionar un entorno favorable para el crecimiento de las raíces.
+
+El sustrato hidropónico no contiene nutrientes propios, pero tiene la capacidad de retener y liberar nutrientes según las necesidades de las plantas.</string>
+
+    <string name="Title_hydro">Hidroponia</string>
+    <string name="Text_hydro">La hidroponía es un método de cultivo de plantas en el cual las raíces se sumergen en una solución nutritiva líquida en lugar de crecer en suelo tradicional. En este sistema, las plantas obtienen los nutrientes necesarios directamente del agua, que está enriquecida con una solución equilibrada de nutrientes esenciales para el crecimiento vegetal.
+
+La hidroponía se basa en proporcionar a las plantas los elementos esenciales que necesitan para crecer, en las proporciones adecuadas y en el momento preciso. A diferencia de la agricultura convencional, donde las raíces de las plantas buscan nutrientes en el suelo, en la hidroponía, los nutrientes se disuelven en el agua y se suministran directamente a las raíces.</string>
+
+    <string name="Name_Lemuel">Lemuel</string>
+    <string name="Status_Lemuel">En Linea</string>
+    <string name="Text_Lemuel">Hey, pasate el trabajo, tienes hasta las 6 si no te sacamos jejeje</string>
+    <string name="Text_Lemuel_Me">
+
+
+
+Nambre, obligame prro</string>
+
+    <string name="Name_Torres">Torres</string>
+    <string name="Status_Torres"></string>
+    <string name="Text_Torres">Ayudame a terminar esta aplicacion, ya me quiero ir a dormir.com
+
+
+
+
+Profe pongame 100</string>
+    <string name="Text_Torres_Me"></string>
+
+    <string name="Name_Carlos">Carlos</string>
+    <string name="Status_Carlos">En Linea</string>
+    <string name="Text_Carlos">Oye, no tendras un fertilizante que me prestes ? Lo ocupo pa mis aguacates</string>
+    <string name="Text_Carlos_Me">
+
+
+
+Nambre, si apenas voy comenzando, a mis papas le puse solo el sustrato</string>
+
+    <string name="Name_Victor">Victor</string>
+    <string name="Status_Victor"></string>
+    <string name="Text_Victor">Ponte a trabajar
+
+
+
+
+
+
+
+Le bajo pero termina el trabajo que el lemuel se esta poniendo bien belicon
+    </string>
+    <string name="Text_Victor_Me">
+
+mmmmmmmmmmmmmm, ya vas empezar tu tambien aguanta dile al lemuel que le baje de eggs
+
+
+
+
+
+
+Amenazalo</string>
+
+    <string name="Name_Edgar">Edgar</string>
+    <string name="Status_Edgar"></string>
+    <string name="Text_Edgar">Oie sabes como un picadillo ?
+
+Voy a hacer una comida y ya vi como 5 videos y todos dicen pasos distintos, te doy un plato pa que me ayudes</string>
+    <string name="Text_Edgar_Me"></string>
+
+    <string name="Name_Luis">Luis</string>
+    <string name="Status_Luis"></string>
+    <string name="Text_Luis"></string>
+    <string name="Text_Luis_Me"></string>
+    <string name="Alert_Luis">Este usuario te ha bloqueado</string>
+
+    <string name="Title_Carrot">Zanahoria</string>
+    <string name="Text_Carrot">Las zanahorias son una verdura muy nutritiva y popular que proporciona una variedad de vitaminas, minerales y fibra.
+
+Calorías: 41 kcal
+Carbohidratos: 9.6 gramos
+Proteínas: 0.9 gramos
+Grasas: 0.2 gramos
+Fibra: 2.8 gramos
+
+Las zanahorias también son una excelente fuente de vitamina A, vitamina C y vitamina K. A continuación, se muestra la cantidad aproximada de estas vitaminas en 100 gramos de zanahorias crudas:
+
+Vitamina A: 835 microgramos (equivalente a aproximadamente el 93% del valor diario recomendado)</string>
+
+    <string name="Title_Avocado">Aguacate</string>
+    <string name="Text_Avocado">Los aguacates son una fruta única y nutritiva que se destaca por su contenido de grasas saludables, vitaminas y minerales.
+
+Calorías: 160 kcal
+Carbohidratos: 8.5 gramos
+Proteínas: 2 gramos
+Grasas: 14.7 gramos (principalmente grasas monoinsaturadas, como el ácido oleico)
+Fibra: 6.7 gramos
+Además, los aguacates son una excelente fuente de varios nutrientes esenciales. A continuación, se muestra la cantidad aproximada de estos nutrientes en 100 gramos de aguacate:
+
+Vitamina K: 21 microgramos (equivalente a aproximadamente el 26% del valor diario recomendado)
+    </string>
+    <string name="Title_Potatoe">Papa</string>
+    <string name="Text_Potatoe">Las papas son un alimento básico muy consumido en todo el mundo y son una fuente importante de energía, vitaminas y minerales.
+
+Calorías: 87 kcal
+Carbohidratos: 20 gramos
+Proteínas: 2 gramos
+Grasas: 0.1 gramos
+Fibra: 1.8 gramos
+
+Las papas también contienen una variedad de nutrientes esenciales. A continuación, se muestra la cantidad aproximada de estos nutrientes en 100 gramos de papas cocidas sin piel:
+
+Vitamina C: 14.7 miligramos (equivalente a aproximadamente el 16% del valor diario recomendado)</string>
+
+    <string name="Title_Wheat">Cebada</string>
+    <string name="Text_Wheat">La cebada es un cereal muy nutritivo que se consume ampliamente en diversas formas, como grano entero, harina, malta o copos.
+
+Calorías: 354 kcal
+Carbohidratos: 73.5 gramos
+Proteínas: 12.5 gramos
+Grasas: 2.3 gramos
+Fibra: 17.3 gramos
+
+La cebada también es una buena fuente de diversos nutrientes esenciales. A continuación, se muestra la cantidad aproximada de estos nutrientes en 100 gramos de cebada cruda:
+
+Vitamina B3 (niacina): 4.6 miligramos (equivalente a aproximadamente el 29% del valor diario recomendado)</string>
+
+    <string name="Title_Agave">Agave</string>
+    <string name="Text_Agave">El agave es una planta suculenta nativa de México y América Central, conocida por su uso en la producción de productos endulzantes como el jarabe de agave y el néctar de agave.
+
+Calorías: 310 kcal
+Carbohidratos: 76.4 gramos
+Proteínas: 0.1 gramos
+Grasas: 0 gramos
+Fibra: 0.2 gramos
+
+El jarabe de agave se caracteriza por ser alto en carbohidratos, principalmente en forma de azúcares, especialmente fructosa. Es importante tener en cuenta que aunque el jarabe de agave es un edulcorante natural, su alto contenido de fructosa puede tener efectos negativos en la salud si se consume en exceso.</string>
+
+    <string name="Avocado_Name">Aguacate</string>
+    <string name="Avocado_Text">La pulpa cruda de aguacate es 73% agua, 15% grasa, 9% carbohidratos y 2% proteínas (tabla). En una cantidad de referencia de 100 gramos, el aguacate aporta 160 calorías y es una fuente rica (20% o más del Valor Diario, VD) de varias vitaminas B (como el 28% del VD en ácido pantoténico) y vitamina K (20% del VD), con contenidos moderados (10-19% del VD) de vitamina C, vitamina E y potasio.</string>
+    <string name="Avocado_CN">(Persea Americana)</string>
+    <string name="Avocado_Water">Agua</string>
+    <string name="Avocado_Temperature">Temperatura</string>
+    <string name="Avocado_Progress">Progreso</string>
+    <string name="POTD">Planta del Dia</string>
+    <string name="Text_POTD">Es una planta que se encuentra principalmente en áreas semi-desérticas y tiene diversos usos medicinales. Sus componentes activos incluyen vitaminas, aminoácidos, minerales (como calcio, cobre, selenio o zinc, entre otros), ácidos grasos, enzimas y polisacáridos, y está compuesta por un 99% de agua.</string>
+    <string name="Title_POTD">Aloe Vera
+(Aloe Barbandensis)
+</string>
+    <string name="TextAbout">Acerca de</string>
+    <string name="TextPrivacyPolicy">Politica de privacidad</string>
+    <string name="Version">Version: Alfa</string>
+    <string name="TextHelp">Ayuda</string>
+    <string name="FrecuentQ">Preguntas Frecuentes</string>
+    <string name="TecnicalS">Soporte Tecnico</string>
+    <string name="ComplainsS">Quejas y sugerencias</string>
+    <string name="TextWeather">Configuracion del Clima</string>
+    <string name="Temperature">Temperatura</string>
+    <string name="Humidity">Humedad</string>
+    <string name="Altitude">Altitud</string>
+    <string name="SaveConfWeather">Guardar</string>
+    <string name="System">Sistema</string>
+    <string name="Weather">Clima</string>
+    <string name="ConfTeosentli">Teosentli</string>
+    <string name="Social">Social</string>
+    <string name="Privacy">Privacidad</string>
+    <string name="Help">Ayuda</string>
+    <string name="PrivacyPolicy">Politicas de Privacidad</string>
+    <string name="PrivacyPolicyText">El servicio Teosentli está limitado al uso exclusivo del cuidado de cultivos legales y sujetos ante la ley impuesta en el año corriente. La empresa no se hace responsable por el uso malicioso que puedan dar los usuarios. Los datos de los usuarios están protegidos ante la ley federal de protección de datos personales. Toda la propiedad intelectual esta resguardada con la ley federal de los estados unidos mexicanos. Cualquier intento de robo o plagio será castigado con la medida que la ley imponga.El servicio Teosentli está limitado al uso exclusivo del cuidado de cultivos legales y sujetos ante la ley impuesta en el año corriente. La empresa no se hace responsable por el uso malicioso que puedan dar los usuarios. Los datos de los usuarios están protegidos ante la ley federal de protección de datos personales. Toda la propiedad intelectual esta resguardada con la ley federal de los estados unidos mexicanos. Cualquier intento de robo o plagio será castigado con la medida que la ley imponga.</string>
+    <string name="PrivacyConf">Configuracion de Privacidad</string>
+    <string name="PrivacySocial">Permitir que te añadan como amigo</string>
+    <string name="SystemConf">Configuracion de Sistema</string>
+    <string name="SystemNotification">Recibir notificaciones</string>
+    <string name="SocialConf">Configuracion Social</string>
+    <string name="UserID">ID de usuario:</string>
+    <string name="AddFriend">Añadir Amigo:</string>
+    <string name="FriendID">ID isuario</string>
+    <string name="AddID">Agregar</string>
+    <string name="DeleteFriedn">Elinimar Amigo:</string>
+    <string name="DeleteID">Eliminar</string>
+    <string name="ConnectionID">ID de conexion:</string>
+    <string name="TeoBattery">Bateria:</string>
+    <string name="TeoDisconnect">Desconectar</string>
+    <string name="action_user" />
+    <string name="NameUser">Giovanni</string>
+    <string name="Security">Seguridad</string>
+    <string name="SignOff">Cerrar Sesión</string>
+    <string name="ChangePass">Cambiar Contraseña</string>
+    <string name="ChangeEmail">Cambiar Correo</string>
+    <string name="ChangeLoginOpt">Opciones de Inicio de Sesión</string>
+
+
+</resources>

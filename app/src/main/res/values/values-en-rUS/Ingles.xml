@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Teosentli</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_store"></string>
+
+    <string name="menu_teosentli">Teosentli</string>
+    <string name="menu_plants">Plants</string>
+    <string name="menu_news">News</string>
+    <string name="menu_messagges">Messages</string>
+    <string name="menu_nature">Nature</string>
+    <string name="menu_configuration">Configuration</string>
+    <string name="menu_about">About</string>
+    <string name="menu_home">Home</string>
+
+    <string name="Title_GRoof">Green Roofs</string>
+    <string name="Texto_GRoof">A green roof, also known as a "green roof" in English, is a building roof system that uses vegetation and plants to cover the surface of the roof partially or entirely. These roofs are specifically designed to accommodate a layer of substrate (soil) and a variety of plants that can thrive in that environment.
+
+There are two main types of green roofs: extensive green roofs and intensive green roofs. Extensive green roofs are lighter and thinner, usually with a thinner layer of substrate and low-maintenance plants such as moss and sedum. They are ideal for flat or low-slope roofs.</string>
+
+    <string name="Title_Drones">Green Drones</string>
+    <string name="Text_Drones">Green drones are equipped with special sensors and cameras to collect data and information about the environment, perform nature monitoring and conservation tasks, and support sustainable practices in different areas. Some common applications of these drones include:
+
+Forest and nature area monitoring: Drones equipped with cameras and sensors can provide detailed aerial images of forests, enabling early detection of forest fires, assessment of tree health, and detection of changes in vegetation coverage.
+
+Sustainable agriculture: Drones can assist in precision agriculture by collecting data on soil quality, crop status, and irrigation needs, allowing for optimized resource usage and reduced use of pesticides and fertilizers.</string>
+
+    <string name="Title_Vertical">Vertical Farms</string>
+    <string name="Text_Vertical">Vertical farms are agricultural facilities that utilize vertical cultivation systems to produce food or crops in a vertically optimized space. Unlike traditional farms, which spread horizontally over extensive land, vertical farms make use of vertical space to grow plants on shelves or stacked structures.
+
+In a typical vertical farm, plants are grown on stacked shelves or trays. These trays are often equipped with irrigation systems and LED lights or artificial lights to provide the appropriate amount of water and light necessary for plant growth. Additionally, hydroponic or aeroponic cultivation techniques are used, in which plant roots are submerged in a liquid nutrient solution or sprayed with it, respectively, instead of using traditional soil.</string>
+
+    <string name="Title_Sustrato">Substrate</string>
+    <string name="Text_Sustrato">Substrate is a material used in hydroponic cultivation systems to provide physical support and retain nutrients for plant growth, in the absence of soil. Unlike traditional agriculture where plants are grown in soil, in hydroponics, the roots are submerged in a liquid nutrient solution, and the substrate is used to hold the plants in place and provide a favorable environment for root growth.
+
+Hydroponic substrate does not contain its own nutrients but has the ability to retain and release nutrients according to the plants needs.</string>
+
+    <string name="Title_hydro">Hydroponics</string>
+    <string name="Text_hydro">Hydroponics is a method of growing plants in which the roots are submerged in a liquid nutrient solution instead of growing in traditional soil. In this system, plants obtain the necessary nutrients directly from water, which is enriched with a balanced solution of essential nutrients for plant growth.
+
+Hydroponics is based on providing plants with the essential elements they need to grow, in the proper proportions and at the right time. Unlike conventional agriculture, where plant roots seek nutrients in the soil, in hydroponics, nutrients are dissolved in water and supplied directly to the roots.</string>
+
+    <string name="Name_Lemuel">Lemuel</string>
+    <string name="Status_Lemuel">Online</string>
+    <string name="Text_Lemuel">Hey, pass me the work, you have until 6 oclock or well expose you hehehe</string>
+    <string name="Text_Lemuel_Me">
+
+Name, make me do it, dawg</string>
+
+    <string name="Name_Torres">Torres</string>
+    <string name="Status_Torres"></string>
+    <string name="Text_Torres">Help me finish this application, I want to go to sleep.com
+
+Give me 100, professor</string>
+    <string name="Text_Torres_Me"></string>
+
+    <string name="Name_Carlos">Carlos</string>
+    <string name="Status_Carlos">Online</string>
+    <string name="Text_Carlos">Hey, do you have any fertilizer you can lend me? I need it for my avocados</string>
+    <string name="Text_Carlos_Me">
+
+Name, I just started, I only used substrate for my potatoes</string>
+
+    <string name="Name_Victor">Victor</string>
+    <string name="Status_Victor"></string>
+    <string name="Text_Victor">Get to work
+
+Ill let it slide, but finish the work because Lemuel is getting really annoying
+</string>
+    <string name="Text_Victor_Me">
+
+Hmmmmmmmmmmmm, are you going to start too? Hold on, tell Lemuel to calm down
+
+Threaten him</string>
+
+    <string name="Name_Edgar">Edgar</string>
+    <string name="Status_Edgar"></string>
+    <string name="Text_Edgar">Hey, do you know how to make picadillo?
+
+Im going to make a meal and Ive watched like 5 videos, and they all have different steps. Ill give you a plate to help me out.</string>
+    <string name="Text_Edgar_Me"></string>
+
+    <string name="Name_Luis">Luis</string>
+    <string name="Status_Luis"></string>
+    <string name="Text_Luis"></string>
+    <string name="Text_Luis_Me"></string>
+    <string name="Alert_Luis">This user has blocked you</string>
+
+    <string name="Title_Carrot">Carrot</string>
+    <string name="Text_Carrot">Carrots are a highly nutritious and popular vegetable that provides a variety of vitamins, minerals, and fiber.
+
+Calories: 41 kcal
+Carbohydrates: 9.6 grams
+Proteins: 0.9 grams
+Fats: 0.2 grams
+Fiber: 2.8 grams
+
+Carrots are also an excellent source of vitamin A, vitamin C, and vitamin K. The following is the approximate amount of these vitamins in 100 grams of raw carrots:
+
+Vitamin A: 835 micrograms (approximately 93% of the recommended daily value)</string>
+
+    <string name="Title_Avocado">Avocado</string>
+    <string name="Text_Avocado">Avocados are a unique and nutritious fruit known for their healthy fats, vitamins, and minerals.
+
+Calories: 160 kcal
+Carbohydrates: 8.5 grams
+Proteins: 2 grams
+Fats: 14.7 grams (mostly monounsaturated fats like oleic acid)
+Fiber: 6.7 grams
+Additionally, avocados are an excellent source of various essential nutrients. The approximate amount of these nutrients in 100 grams of avocado is:
+
+Vitamin K: 21 micrograms (equivalent to approximately 26% of the recommended daily value)
+</string>
+    <string name="Title_Potatoe">Potato</string>
+    <string name="Text_Potatoe">Potatoes are a widely consumed staple food around the world and are an important source of energy, vitamins, and minerals.
+
+Calories: 87 kcal
+Carbohydrates: 20 grams
+Proteins: 2 grams
+Fats: 0.1 grams
+Fiber: 1.8 grams
+
+Potatoes also contain a variety of essential nutrients. The approximate amount of these nutrients in 100 grams of cooked potatoes without skin is:
+
+Vitamin C: 14.7 milligrams (equivalent to approximately 16% of the recommended daily value)</string>
+
+    <string name="Title_Wheat">Barley</string>
+    <string name="Text_Wheat">Barley is a highly nutritious cereal that is widely consumed in various forms, such as whole grain, flour, malt, or flakes.
+
+Calories: 354 kcal
+Carbohydrates: 73.5 grams
+Proteins: 12.5 grams
+Fats: 2.3 grams
+Fiber: 17.3 grams
+
+Barley is also a good source of various essential nutrients. The approximate amount of these nutrients in 100 grams of raw barley is:
+
+Vitamin B3 (niacin): 4.6 milligrams (equivalent to approximately 29% of the recommended daily value)</string>
+
+    <string name="Title_Agave">Agave</string>
+
+    <string name="Text_Agave">Agave is a succulent plant native to Mexico and Central America, known for its use in the production of sweetening products like agave syrup and agave nectar.
+Calories: 310 kcal
+Carbohydrates: 76.4 grams
+Proteins: 0.1 grams
+Fats: 0 grams
+Fiber: 0.2 grams
+Agave syrup is characterized by being high in carbohydrates, mainly in the form of sugars, especially fructose. Its important to note that although agave syrup is a natural sweetener, its high fructose content can have negative effects on health if consumed excessively.
+    </string>
+
+    <string name="Avocado_Name">Avocado</string>
+    <string name="Avocado_Text">Raw avocado flesh is 73% water, 15% fat, 9% carbohydrates, and 2% protein (table). In a reference amount of 100 grams, avocado provides 160 calories and is a rich source (20% or more of the Daily Value, DV) of several B vitamins (such as 28% DV of pantothenic acid) and vitamin K (20% DV), with moderate contents (10-19% DV) of vitamin C, vitamin E, and potassium.</string>
+    <string name="Avocado_CN">(Persea americana)</string>
+    <string name="Avocado_Water">Water</string>
+    <string name="Avocado_Temperature">Temperature</string>
+    <string name="Avocado_Progress">Progress</string>
+    <string name="POTD">Plant of the Day</string>
+    <string name="Text_POTD">It is a plant that is mainly found in semi-desert areas and has various medicinal uses. Its active components include vitamins, amino acids, minerals (such as calcium, copper, selenium, or zinc, among others), fatty acids, enzymes, and polysaccharides, and it is composed of 99% water.</string>
+    <string name="Title_POTD">Aloe Vera
+(Aloe Barbadensis)
+</string>
+
+
+    <string name="TextAbout">About</string>
+    <string name="TextPrivacyPolicy">Privacy Policy</string>
+    <string name="Version">Version: Alpha</string>
+    <string name="TextHelp">Help</string>
+    <string name="FrecuentQ">Frequently Asked Questions</string>
+    <string name="TecnicalS">Technical Support</string>
+    <string name="ComplainsS">Complaints and Suggestions</string>
+    <string name="TextWeather">Weather Configuration</string>
+    <string name="Temperature">Temperature</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Altitude">Altitude</string>
+    <string name="SaveConfWeather">Save</string>
+    <string name="System">System</string>
+    <string name="Weather">Weather</string>
+    <string name="ConfTeosentli">Teosentli Configuration</string>
+    <string name="Social">Social</string>
+    <string name="Privacy">Privacy</string>
+    <string name="Help">Help</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+    <string name="PrivacyPolicyText">The Teosentli service is limited to the exclusive use of the care of legal crops and subject to the law imposed in the current year. The company is not responsible for any malicious use that users may engage in. User data is protected by the federal law on personal data protection. All intellectual property is safeguarded by the federal law of the United Mexican States. Any attempt of theft or plagiarism will be punished according to the law. The Teosentli service is limited to the exclusive use of the care of legal crops and subject to the law imposed in the current year. The company is not responsible for any malicious use that users may engage in. User data is protected by the federal law on personal data protection. All intellectual property is safeguarded by the federal law of the United Mexican States. Any attempt of theft or plagiarism will be punished according to the law.</string>
+    <string name="PrivacyConf">Privacy Configuration</string>
+    <string name="PrivacySocial">Allow others to add you as a friend</string>
+    <string name="SystemConf">System Configuration</string>
+    <string name="SystemNotification">Receive notifications</string>
+    <string name="SocialConf">Social Configuration</string>
+    <string name="UserID">User ID:</string>
+    <string name="AddFriend">Add Friend:</string>
+    <string name="FriendID">User ID:</string>
+    <string name="AddID">Add</string>
+    <string name="DeleteFriedn">Delete Friend:</string>
+    <string name="DeleteID">Delete</string>
+    <string name="ConnectionID">Connection ID:</string>
+    <string name="TeoBattery">Battery:</string>
+    <string name="TeoDisconnect">Disconnect</string>
+    <string name="action_user" />
+    <string name="NameUser">Giovanni</string>
+    <string name="Security">Security</string>
+    <string name="SignOff">Close Session</string>
+    <string name="ChangePass">Change Password</string>
+    <string name="ChangeEmail">Change Email</string>
+    <string name="ChangeLoginOpt">Login Options</string>
+</resources>
